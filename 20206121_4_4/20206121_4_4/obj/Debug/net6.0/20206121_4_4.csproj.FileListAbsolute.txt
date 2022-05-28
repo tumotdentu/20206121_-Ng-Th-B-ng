@@ -1,0 +1,15 @@
+E:\code\20206121_4_4\20206121_4_4\bin\Debug\net6.0\20206121_4_4.exe
+E:\code\20206121_4_4\20206121_4_4\bin\Debug\net6.0\20206121_4_4.deps.json
+E:\code\20206121_4_4\20206121_4_4\bin\Debug\net6.0\20206121_4_4.runtimeconfig.json
+E:\code\20206121_4_4\20206121_4_4\bin\Debug\net6.0\20206121_4_4.dll
+E:\code\20206121_4_4\20206121_4_4\bin\Debug\net6.0\20206121_4_4.pdb
+E:\code\20206121_4_4\20206121_4_4\obj\Debug\net6.0\20206121_4_4.csproj.AssemblyReference.cache
+E:\code\20206121_4_4\20206121_4_4\obj\Debug\net6.0\20206121_4_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\20206121_4_4\20206121_4_4\obj\Debug\net6.0\20206121_4_4.AssemblyInfoInputs.cache
+E:\code\20206121_4_4\20206121_4_4\obj\Debug\net6.0\20206121_4_4.AssemblyInfo.cs
+E:\code\20206121_4_4\20206121_4_4\obj\Debug\net6.0\20206121_4_4.csproj.CoreCompileInputs.cache
+E:\code\20206121_4_4\20206121_4_4\obj\Debug\net6.0\20206121_4_4.dll
+E:\code\20206121_4_4\20206121_4_4\obj\Debug\net6.0\refint\20206121_4_4.dll
+E:\code\20206121_4_4\20206121_4_4\obj\Debug\net6.0\20206121_4_4.pdb
+E:\code\20206121_4_4\20206121_4_4\obj\Debug\net6.0\20206121_4_4.genruntimeconfig.cache
+E:\code\20206121_4_4\20206121_4_4\obj\Debug\net6.0\ref\20206121_4_4.dll
